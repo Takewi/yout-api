@@ -1,0 +1,11 @@
+{
+  "name": "yout-api",
+  "version": "1.0.0",
+  "description": "Youtube video downloader",
+  "main": "index.js",
+  "author": "Takewi <gawi2k21@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ytdl-core": "^4.11.2"
+  }
+}
