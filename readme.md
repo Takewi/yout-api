@@ -20,17 +20,7 @@ npm run dev
 
 ## To create a .exe file you need nexe
 
-### To install nexe
-
-Run this commands as sudo if you are using linux.
 Nexe needs python, i recommend any recent version of python.
-
-```bash
-yarn add -g nexe
-or
-npm install -g nexe
-```
-
 To basic exe build of this project you can run:
 
 ```bash
