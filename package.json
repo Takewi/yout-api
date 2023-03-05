@@ -7,11 +7,12 @@
   "license": "MIT",
   "scripts": {
     "dev": "node src/index.js",
-    "build": "nexe ./src/index.js --build --name yout-api --flag"
+    "build": "nexe ./src/index.js --build --name yout-api --flag --python /usr/bin/python3"
   },
   "dependencies": {
     "ffmpeg-static": "^5.1.0",
     "fluent-ffmpeg": "^2.1.2",
+    "nexe": "^4.0.0-rc.2",
     "prompt-sync": "^4.2.0",
     "ytdl-core": "^4.11.2"
   }
